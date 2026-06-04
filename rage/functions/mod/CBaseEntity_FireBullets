@@ -1,0 +1,20 @@
+"CBaseEntity::FireBullets"
+{
+    handler : thiscall_Void__CBaseeEntity_ULong_Vector_Vector_Vector_Float_Int_Int_Int_Entvars
+   
+    identifiers :
+    {
+        cstrike  
+        {
+            windows
+            {
+                {0x81,*,*,*,*,*,0xA1,*,*,*,*,0x53,0x55,0x8B,*,0x8B}
+            }
+           
+            linux
+            {
+                FireBullets__11CBaseEntityUlG6VectorN22fiiiP9entvars_s
+            }
+        }
+    }
+}

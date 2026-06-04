@@ -1,0 +1,20 @@
+"CBaseEntity::FireBullets3"
+{
+    handler : thiscall_Vector__CBaseEntity_Vector_Vector_Float_Float_Int_Int_Int_Float_Entvars_Bool_Int
+   
+    identifiers :
+    {
+        cstrike  
+        {
+            windows
+            {
+                {0x81,*,*,*,*,*,0x8B,0x84,*,*,*,*,*,0x53,0x55,0x56,0x89,*,*,*,0xA1}
+            }
+           
+            linux
+            {
+                FireBullets3__11CBaseEntityG6VectorT1ffiiifP9entvars_sbi
+            }
+        }
+    }
+}
